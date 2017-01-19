@@ -13,9 +13,9 @@ namespace RapidORMSampleApp
         {
             DBContext.ConnectionString = new DBConnection()
             {
-                Server = "localhost",
-                Database = "rapidorm",
-                Username = "root",
+                Server = "",
+                Database = "",
+                Username = "",
                 Password = ""
             };
         }
